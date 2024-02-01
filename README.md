@@ -2,11 +2,6 @@
 
 A Very Basic Language Model using Only NumPy that Predicts the Next Word Using Shakespere Dataset.
 
-Join [Discord Server](https://discord.gg/P9gGZaXWGR) for any Assist/Issues or Testing it!
-
-If You like My OpenSource Work you can Support : https://www.buymeacoffee.com/samir.xr
-
-This will be Solely used for Hosting of Bot/API and Future Improvements.
 
  Installation 
 
